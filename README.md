@@ -45,3 +45,9 @@ knowledge of R is assumed and familiarity with Git is preferred.
 | 10:15 - 10:30 | ☕ *Coffee break*         |
 | 15:30 - 16:45 | Case studies             |
 | 16:45 - 17:00 | Parting remarks          |
+
+-----
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is
+licensed under a [Creative Commons Attribution 4.0 International
+License](https://creativecommons.org/licenses/by/4.0/).

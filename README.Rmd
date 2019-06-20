@@ -28,3 +28,7 @@ Success in data science and statistics is dependent on the development of both a
 | 10:15 - 10:30 | `r emo::ji("coffee")` *Coffee break*    |
 | 15:30 - 16:45 | Case studies                            |
 | 16:45 - 17:00 | Parting remarks                         |
+
+---
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)  This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
