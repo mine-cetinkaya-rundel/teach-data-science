@@ -9,7 +9,7 @@ output: github_document
 `r emo::ji("spiral_calendar")`    Sunday, 2019-07-28  
 `r emo::ji("clock8")`             08:30 - 17:00  
 `r emo::ji("round_pushpin")`      CC-407  
-`r emo::ji("white_check_mark")`   [Register](https://www.amstat.org/EventDetail?Eventkey=JSM2019)
+`r emo::ji("white_check_mark")`   [Register](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218189)
 
 ---
 

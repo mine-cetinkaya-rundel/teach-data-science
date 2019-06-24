@@ -7,7 +7,8 @@ Teaching Data Science
 🗓 Sunday, 2019-07-28  
 🕗 08:30 - 17:00  
 📍 CC-407  
-✅ [Register](https://www.amstat.org/EventDetail?Eventkey=JSM2019)
+✅
+[Register](https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218189)
 
 -----
 
