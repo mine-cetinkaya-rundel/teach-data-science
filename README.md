@@ -61,8 +61,8 @@ toolkit.
 | 12:30 - 14:00 | 🍽 *Lunch break*                                                                          |
 | 14:00 - 15:15 | [Reproducible workflows](/03-reproducible-workflows/03-reproducible-workflows.pdf)       |
 | 15:15 - 15:30 | ☕ *Coffee break*                                                                         |
-| 15:30 - 16:45 | Case studies                                                                             |
-| 16:45 - 17:00 | Parting remarks                                                                          |
+| 15:30 - 16:45 | [Case studies](/04-case-studies/04-case-studies.pdf)                                     |
+| 16:45 - 17:00 | [Parting remarks](/05-parting-remarks/05-parting-remarks.pdf)                            |
 
 ## Instructor
 
