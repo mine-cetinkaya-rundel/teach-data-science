@@ -51,17 +51,17 @@ knowledge of R is assumed and familiarity with Git is preferred.
 
 ## Schedule
 
-| Time          | Activity                 |
-| :------------ | :----------------------- |
-| 08:30 - 08:45 | Welcome                  |
-| 08:45 - 10:15 | Curriculum design        |
-| 10:15 - 10:30 | ☕ *Coffee break*         |
-| 10:30 - 12:30 | Computing infrastructure |
-| 12:30 - 14:00 | 🍽 *Lunch break*          |
-| 14:00 - 15:15 | Reproducible workflows   |
-| 15:15 - 15:30 | ☕ *Coffee break*         |
-| 15:30 - 16:45 | Case studies             |
-| 16:45 - 17:00 | Parting remarks          |
+| Time          | Activity                              |
+| :------------ | :------------------------------------ |
+| 08:30 - 08:45 | [Welcome](/00-welcome/00-welcome.pdf) |
+| 08:45 - 10:15 | Curriculum design                     |
+| 10:15 - 10:30 | ☕ *Coffee break*                      |
+| 10:30 - 12:30 | Computing infrastructure              |
+| 12:30 - 14:00 | 🍽 *Lunch break*                       |
+| 14:00 - 15:15 | Reproducible workflows                |
+| 15:15 - 15:30 | ☕ *Coffee break*                      |
+| 15:30 - 16:45 | Case studies                          |
+| 16:45 - 17:00 | Parting remarks                       |
 
 ## Instructor
 
