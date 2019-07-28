@@ -29,9 +29,9 @@ Success in data science and statistics is dependent on the development of both a
 | Time          | Activity                                |
 |:--------------|:----------------------------------------|
 | 08:30 - 08:45 | [Welcome](/00-welcome/00-welcome.pdf)                                 |
-| 08:45 - 10:15 | Curriculum design                       |
+| 08:45 - 10:15 | [Curriculum design](/01-curriculum-design/01-curriculum-design.pdf)                       |
 | 10:15 - 10:30 | `r emo::ji("coffee")` *Coffee break*    |
-| 10:30 - 12:30 | Computing infrastructure                |
+| 10:30 - 12:30 | [Computing infrastructure](/02-infrastructure/02-infrastructure.pdf)                |
 | 12:30 - 14:00 | `r emo::ji("plate_with_cutlery")` *Lunch break*  |
 | 14:00 - 15:15 | Reproducible workflows                  |
 | 15:15 - 15:30 | `r emo::ji("coffee")` *Coffee break*    |
