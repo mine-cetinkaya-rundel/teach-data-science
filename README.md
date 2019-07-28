@@ -59,7 +59,7 @@ toolkit.
 | 10:15 - 10:30 | ☕ *Coffee break*                                                                         |
 | 10:30 - 12:30 | [Computing infrastructure](/02-computing-infrastructure/02-computing-infrastructure.pdf) |
 | 12:30 - 14:00 | 🍽 *Lunch break*                                                                          |
-| 14:00 - 15:15 | Reproducible workflows                                                                   |
+| 14:00 - 15:15 | [Reproducible workflows](/03-reproducible-workflows/03-reproducible-workflows.pdf)       |
 | 15:15 - 15:30 | ☕ *Coffee break*                                                                         |
 | 15:30 - 16:45 | Case studies                                                                             |
 | 16:45 - 17:00 | Parting remarks                                                                          |
